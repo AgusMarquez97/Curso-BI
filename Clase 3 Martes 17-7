@@ -5,3 +5,6 @@ Trabajamos con PowerView.Para esto agregar el complemento COM y agregar personal
 PowerView en un nuevo grupo en insertar.
 
 Creacion de reportes con tablas y graficos por fila, columna, de torta, etc.
+
+Trabajamos con PowerQuery para la obtencion y transformacion de datos provenientes de distintas fuentes. Vimos que es un alternativa
+para el uso de PowerPivot y trabajamos con mapas 
